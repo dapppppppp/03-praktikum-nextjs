@@ -38,3 +38,44 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+### Laporan Praktikum 3 Pengenalan NextJS
+> NIM   : 2241720195
+> Nama  : Daffa Reyhansyah Ahmad
+> Kelas : TI - 3C
+
+### Praktikum 1. Persiapan Lingkungan
+> ![alt text](asset/p1.png)
+
+### Praktikum 2. Membuat Halaman dengan Server-Side Rendering (SSR)
+> ![alt text](asset/p2.png)
+
+### Praktikum 3. Menggunakan Static Site Generation (SSG)
+> ![alt text](asset/p3.png)
+
+### Praktikum 4. Menggunakan Dynamic Routes
+> ![alt text](asset/p4.png)
+
+### Praktikum 5. Menggunakan API Routes
+> ![alt text](asset/p5.png)
+
+### Praktikum 6.Menggunakan Link Component
+> ![alt text](asset/p6.png)
+> ![alt text](asset/p7.png)
+
+### Tugas
+
+> Tugas
+> 1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar
+pengguna dari API https://jsonplaceholder.typicode.com/users.
+
+> ![alt text](asset/tugas1.png)
+
+> 2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID.
+> ![alt text](asset/tugas2.png)
+> ![alt text](asset/tugas22.png)
+
+> 3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap)
+dan tampilkan data tersebut di halaman front-end.
+
+> ![alt text](asset/tugas3.gif)
